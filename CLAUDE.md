@@ -16,13 +16,19 @@ Grow Fimiliar MRR to £50K. Floor: +£15K in 3 months. Everything should support
 ## Projects
 Active workstreams live in `projects/`. Each has a `README.md` with status and key dates.
 
+## Task Management
+- Today's plan: `tasks/today.md`
+- Templates: `tasks/templates/` (office-day, wfh-day)
+- Log: `tasks/log/` (archived daily plans)
+- Run `/daily-plan` each morning to generate the day
+
 ## Skills
 Custom skills live in `.claude/skills/`. Each skill: `.claude/skills/skill-name/SKILL.md`.
 
-Built organically as recurring workflows emerge. None exist yet.
+**Built:**
+- `daily-plan` — morning planning workflow (calendar + time blocking)
 
 **Backlog:**
-- Time blocking and task management
 - Daily engagement workflow (commenting per client)
 - Outreach / DM workflow per client
 - List building workflow
