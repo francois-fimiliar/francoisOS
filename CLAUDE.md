@@ -23,8 +23,11 @@ Built organically as recurring workflows emerge. None exist yet.
 
 **Backlog:**
 - Time blocking and task management
-- Engagement + outreach workflows (Fimiliar + clients)
-- Client project management system
+- Daily engagement workflow (commenting per client)
+- Outreach / DM workflow per client
+- List building workflow
+- Weekly reporting workflow
+- Documentation review + update workflow
 
 ## Decision Log
 Log meaningful decisions in `decisions/log.md`. Append-only.
