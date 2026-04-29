@@ -1,0 +1,22 @@
+# Employs a large hourly frontline workforce (hundreds to tens of thousands of employees) Operates across many locations or sites (multi-site, often 20+ and frequently 100+) Runs on shifts and needs reliable coverage every day (stores, sites, plants, warehouses) Has demand that changes by hour or day (peaks, seasonality, promotions, weather, events) Feels real pain in labour and staffing (overtime, understaffing, inconsistent service, high churn) Wants to improve both performance and employee experience (fairer, more stable schedules and better engagement) Has enough scale and structure to act (budget, ownership, and willingness to modernise tools and processes)
+
+Any industries we should specifically exclude?: N/A
+Any other industries not listed above?: Retail and Hospitality 
+Are recently-funded companies a priority target for you?: Not a factor
+Are there tools your offer directly enhances, integrates with, or replaces?: All three
+Company stage: Enterprise/Public
+Name 5-10 companies you'd consider perfect-fit clients today.: M&S, H&M, BP, Greggs, NEXT, Card Factory, EG, Shell, Co-Op (Regionals), The Works, B&Q, Wickes, Currys plc, Compass Group, Whitbread, SSP, Mitchells & Butlers, B&M, Poundland (Pepco UK), Home Bargains (TJ Morris) Tesco, Holland & Barrett
+Respondent: Anonymous
+Submission time: March 11, 2026 5:22 PM
+Target company employee count: 1 001-5 000, 5001 - 10 000
+What is the core problem you solve for them?: We solve the gap between how many people a business needs and how work actually happens on the frontline.
+In plain terms: many companies either schedule too many people (wasting money) or too few (hurting service and burning out staff), and then spend the day firefighting changes. We help them consistently put the right people in the right place at the right time, in a way that’s fair and workable for employees.
+What is the estimated annual revenue range of these companies?: 100B - 1T, 10B - 100B, 1B - 10B, 200M - 500M, 500M - 1B, 75M - 200M
+What is your best 1-sentence pitch/value prop for the defined ICP?: Legion helps retailers and hospitality operators put the right people in the right place at the right time, reducing labour waste while giving frontline teams fairer, more predictable schedules.
+What keywords would appear on an ideal client's website or LinkedIn company page?: UK retail “store estate” “store portfolio” “national footprint” “multi-site” “stores across the UK” “store operations” “field operations” “store support centre” “trading” / “trading performance” “peak trading” “seasonal trading” “promotional activity” “availability” / “on-shelf availability” “customer experience” “queues” / “queue management” “labour productivity” “hours budget” / “labour budget” “rota” / “rotas” “scheduling” “time and attendance” “shrink” / “loss prevention” (often correlates with staffing pressure) “colleagues” / “store colleagues” “flexible working” “wellbeing” / “engagement” UK hospitality and leisure “venues” / “sites” “restaurants” / “pubs” / “hotels” “multi-site operator” “front of house” / “back of house” “covers” “footfall” “bookings” / “reservations” “occupancy” (hotels) “RevPAR” (hotels) “service standards” “guest experience” “labour scheduling” “rota management” “shift patterns” “agency staff” “overtime” “absence” “turnover” “retention” “training” / “academy” “compliance” (esp. working time, breaks, right to work) Extra filters that scream “good fit” “open 7 days” / “extended trading hours” / “late night” “seasonal recruitment” / “Christmas hiring” / “summer peak” “new store openings” / “new venue openings” “transformation programme” / “operational excellence” “digital transformation” / “modernising systems”
+What tools or platforms are your ideal clients typically using?: Could be so many but as an example SAP Success Factors and Oracle
+Where are the decision-makers typically located?: Typical HQ or Remote
+Where are your ideal client companies located?: EMEA
+Which industries are your ideal clients in?: Enterprise/B2B Services, Healthcare/MedTech, SaaS/Software, Sales Tech/RevOps
+Who else influences the decision?: As above
+Who is the primary decision maker?: It is typically a decision by committee with not one single person the primary decision maker

@@ -15,14 +15,15 @@ Ask: "Which clients are we running engagement for today?" or if all clients, pro
 
 ### 3. Per-client loop
 For each client:
-  1. Read `projects/engagement/clients/[client].md`
-  2. Surface: ICP, voice/style, strategy, and next actions
-  3. Prompt Francois with what to focus on for this client's session:
-     - Who to engage with (based on ICP and target list)
-     - What angle to comment from (based on voice/style)
-     - Any specific next actions flagged in the file
+  1. Read `projects/engagement/clients/[slug]/[person].md` — ICP, voice, next actions
+  2. Read `projects/engagement/clients/[slug]/[person]-strategy.md` — comment plan, influencer targets, competitor targets, topics, rules
+  3. Surface for the session:
+     - Comment split for today (prospects / influencers / competitors)
+     - Which influencers and competitors to prioritise
+     - What angle to comment from (based on voice and strategy)
+     - Any specific next actions flagged in the profile file
   4. After session: ask if any notes, observations, or next actions to log back to the client file
-  5. Update client file `## Next actions` and `## Notes` if needed
+  5. Update `[person].md` — `## Next actions` and `## Notes` if needed
 
 ### 4. Log reminder
 Remind Francois to update Excel tracker with activity counts (connections, comments, etc.) for the session.

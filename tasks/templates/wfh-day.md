@@ -8,7 +8,7 @@
 |------|-------|
 | 08:00–09:00 | Planning + admin |
 | 09:00–10:00 | Deep work |
-| 10:00–10:30 | Standup — Jono |
+| 10:00–10:30 | Standup — full team |
 | 10:30–12:30 | Deep work |
 | 12:30–13:30 | Lunch |
 | 13:30–15:00 | Engagement |

@@ -49,9 +49,9 @@ Custom skills live in `.claude/skills/`. Each skill: `.claude/skills/skill-name/
 - `/audit` — full system health check (stale tasks, context, decisions, projects, CLAUDE.md)
 - `/engagement-log` — daily commenting workflow per client
 - `/outreach` — DM/outreach workflow per client
+- `/list-build` — Clay filter list builder (ICP filtering + 10 campaign CSVs per client)
 
 **Backlog:**
-- `/list-build` — target list building per client
 - `/weekly-review` — end-of-week wrap + next week planning
 - `/weekly-report` — performance reports for all clients
 
@@ -87,3 +87,15 @@ Wishlist / ideas backlog: `wishlist.md`
 
 ## Archive Rule
 Don't delete — move to `archives/`.
+
+## Session Wrap
+At the end of every working session — when tasks are complete or Francois signals he's done — proactively run through this checklist without being asked:
+
+- [ ] Meaningful decisions logged in `decisions/log.md`
+- [ ] `tasks/week.md` and `tasks/today.md` reflect actual state (done/not done, moved tasks)
+- [ ] `context/current-priorities.md` updated if focus shifted
+- [ ] Any new or changed skills updated to reflect what was built
+- [ ] New file structures or patterns documented in the relevant README
+- [ ] Nothing left undocumented that a future session would need to know
+
+Do this automatically. Don't wait to be reminded.

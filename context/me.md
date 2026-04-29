@@ -17,7 +17,7 @@ Shifting from client content production to engagement, outreach, and growth. Off
 ## Personal Context
 - Partner: Zoie (wedding planned March 2027)
 - Commute: Somerset West ↔ Cape Town Mon–Wed; WFH Thu–Fri
-- Daily 10am standup with Jono
+- Daily 10am standup with full team (Karl + Jono)
 - Interests: Supercross, F1
 - Side project: Meado (habit tracking app, low priority hobby)
 - Fitness: active weight loss journey, targeting 90kg
