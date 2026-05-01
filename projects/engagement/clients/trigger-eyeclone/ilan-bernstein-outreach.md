@@ -1,32 +1,33 @@
 # Outreach Strategy — Ilan Bernstein
 
 *Companies: Trigger + Eyeclone*
-*Last updated: 2026-04-29*
+*Last updated: 2026-04-30*
 
 ---
 
 ## Philosophy
 
-Ilan runs two businesses from one LinkedIn profile. His DMs need to match the intent signal — a Trigger signal gets a Trigger opener, an Eyeclone signal gets an Eyeclone opener. Never mix the two in one message. The voice in both cases should feel like a founder who has lived the problem, not an advisor pitching a solution.
+Ilan runs two businesses from one LinkedIn profile. The goal of every DM is to start a conversation — nothing more. Zero pressure, zero pitch. No one should feel sold to. The business angle emerges naturally as the conversation develops.
 
 **Warm outreach only. No exceptions.**
+
+DM voice: casual, human, direct. Not a consultant framing a solution — a founder reaching out to another person. The opener should feel like something a normal person would actually send.
 
 ---
 
 ## Intent Threshold
-
-Minimum: 2-3 engagement touches from Ilan + one awareness signal.
 
 | Signal | Intent | Action |
 |--------|--------|--------|
 | Replied to Ilan's comment | Very high | DM within 48hrs |
 | Commented on Ilan's post | Very high | DM within 48hrs |
 | Sent unprompted connection request | High | DM within 48hrs |
+| Viewed Ilan's profile (ICP match) | Medium | DM while view is recent — acknowledge the view directly |
 | Viewed Ilan's profile after interaction | High | DM within 72hrs |
 | Posted about fundraising / exit / M&A | Very high | Trigger DM within 48hrs |
 | Posted about cash flow / forecasting / financial visibility | Very high | Eyeclone DM within 48hrs |
 
-**Signal-to-business mapping:**
+**Signal-to-business mapping (for warmer signals only — not profile views):**
 - Funding language (runway, term sheet, raise, capital) → Trigger DM
 - Exit language (acquisition, sell-side, exit planning, due diligence) → Trigger DM
 - Finance visibility language (QuickBooks, cash flow, forecasting, real-time) → Eyeclone DM
@@ -35,44 +36,41 @@ Minimum: 2-3 engagement touches from Ilan + one awareness signal.
 
 ## Message Framework
 
-### Message 1 — Trigger angle
+### Profile viewer DM (medium signal)
 
-**Voice:** [NEEDS INPUT — confirm with Ilan. Working assumption: founder-led, direct, specific pain points, no hard CTA]
+Use when someone in the ICP has viewed Ilan's profile and the view is recent (within ~1 week).
 
-**Topics:**
-- Exit readiness and what founders underestimate
-- Fundraising preparation — the financial clarity piece that derails raises
-- M&A transaction process — the execution layer most founders don't know
-- Working with CPA/advisory firms as a founder
+**Two templates — pick based on context:**
 
-**Example structure:**
-> "[Reference their specific post or comment about the exit/fundraising topic.]
-> [One honest observation from someone who has worked inside these processes.]
-> [One question about their situation — specific to where they seem to be in the journey.]"
+Option A — Simple curiosity:
+> "Hey [name], was checking my LinkedIn and saw you checked out my profile. Was there something that caught your eye or just browsing?"
 
----
+Option B — Return the favour (preferred for ICP matches):
+> "Hey [name], saw you checking out my profile and thought I'd return the favour! [Their industry] looks interesting — what do you see as the biggest challenges heading into 2026?"
 
-### Message 1 — Eyeclone angle
-
-**Topics:**
-- Real-time financial visibility for growing businesses
-- The gap between QuickBooks/Xero and what founders actually need
-- Cash flow forecasting and scenario planning pain
-- Financial clarity for CEOs who aren't finance-native
-
-**Example structure:**
-> "[Reference their specific post or comment about the financial visibility challenge.]
-> [One observation about what that problem actually costs — specific, not generic.]
-> [One question about how they're currently handling it.]"
+**Rules:**
+- Acknowledge the profile view directly — it's disarming and human
+- Option B only when their industry is clearly identifiable and relevant
+- Keep the question open and genuine — not leading toward a pitch
+- Send while the view is still recent
 
 ---
 
-### Rules for both angles:
+### Message 1 — Warmer signals (comment reply, post engagement, connection request)
+
+For higher-intent signals, the opener can be more specific. Still no pitch — just a more informed question.
+
+**Structure:**
+> "[Reference exactly what they said or did.]
+> [One honest observation — not a sales point.]
+> [One open question about their situation.]"
+
+**Rules:**
 - Under 60 words / under 300 characters
-- One business angle per message — never mix Trigger and Eyeclone
+- One business angle per message — Trigger or Eyeclone, never both
 - No product pitch in Message 1
 - No CTA, no calendar link
-- Sound like a founder who has been there, not a service provider selling
+- Casual and direct — not consultant-formal
 
 ---
 

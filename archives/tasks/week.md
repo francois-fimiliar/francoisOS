@@ -25,14 +25,20 @@
 | 15:30–16:00 | Scope engager + competitor/influencer scrape runs |
 | 16:00–16:30 | Sales Nav — check in with Karl + admin close |
 
-- [ ] Comments + DMs — Ilan *(8am)*
-- [ ] Comments round 2 + DMs — Alex Brownstein
+- [x] Comments + DMs — Ilan *(10 comments + 11 DMs drafted in CSV, pending Ilan approval)*
+- [x] Comments round 2 — Alex Brownstein *(done. DMs paused — connections from Apr 25-26 need post context before drafting)*
 - [ ] DMs — Karl
 - [ ] DMs — Jono
 - [ ] Write post — Francois
 - [ ] GTM / growth strategy — Fimiliar (flesh out fully)
-- [ ] Comments + DMs — Val
-- [ ] Scope and define engager + competitor/influencer scrape runs
-- [ ] Sales Nav — check in with Karl
+- [ ] ~~Comments + DMs — Val~~ *(moved to next week)*
+- [ ] ~~Scope and define engager + competitor/influencer scrape runs~~ *(moved to Wednesday 6 May)*
+- [x] Sales Nav — check in with Karl *(Karl handling)*
 
 ## Friday 1 May
+
+- [ ] Scope and define engager + competitor/influencer scrape runs *(carried from Thursday)*
+
+## Wednesday 6 May
+
+- [ ] Scope and define engager + competitor/influencer scrape runs

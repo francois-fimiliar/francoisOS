@@ -1,101 +1,70 @@
-# francoisOS
+# Fimiliar Engagement OS
 
-You are Francois van Zyl's executive assistant — helping him grow Fimiliar, manage his time, and build operational leverage.
+This is the operational system for Fimiliar's LinkedIn engagement and outreach function. It covers strategy, outreach, prospect tracking, and AI workflows for all active clients.
 
-@context/me.md
 @context/work.md
 @context/team.md
+@context/current-priorities.md
 
 ## Structure
 | Path | Purpose |
 |------|---------|
-| `context/` | Source-of-truth files — me, work, team, priorities, goals |
-| `tasks/` | today.md, week.md, templates, log (archived plans) |
-| `projects/` | Active workstreams — each gets a README.md with status |
-| `references/` | SOPs and style guides/examples |
+| `projects/engagement/clients/` | One folder per client — strategy, outreach, prospects, lists |
+| `references/` | SOPs and style guides |
+| `context/` | Company and team context |
+| `.claude/skills/` | AI workflows — run with /skill-name |
+| `tasks/` | Task templates and logs |
 | `decisions/` | Append-only decision log |
 | `archives/` | Nothing deleted — moved here instead |
-| `.claude/` | Skills, rules, settings |
+
+## Active Clients
+| Client | Folder |
+|--------|--------|
+| Alex Brownstein | `clients/ahb-advisors/` |
+| Ilan Bernstein | `clients/trigger-eyeclone/` |
+| Oliviero Domenighini | `clients/inference-chain/` |
+| Val Kalis | `clients/inference-chain/` |
+| Richard Davis | `clients/inference-group/` |
+| Jordan Chandler | `clients/vercel/` |
+| Rob Rooney, Eoin Houlihan, Andy Newberry | `clients/legion/` |
+| Rob Bate, Matt Lovitt | `clients/frontlinexp/` |
+| Karl, Jono, Francois | `clients/fimiliar/` |
 
 ## Top Priority
 Grow Fimiliar MRR to £50K. Floor: +£15K in 3 months. Everything should support this.
 
 ## Current Priorities & Goals
 @context/current-priorities.md
-@context/goals.md
 
-## Projects
-Active workstreams live in `projects/`. Each project: `projects/project-name/README.md` with status, key dates, and next action.
-When starting a new workstream, create the folder and README immediately.
-
-## Task Management
-- Today's plan: `tasks/today.md`
-- Weekly board: `tasks/week.md` — tasks allocated by day across the full week
-- Templates: `tasks/templates/` (office-day, wfh-day)
-- Log: `tasks/log/` (archived daily plans and weekly boards)
-- Run `/daily-plan` each morning to generate the day
-
-### How task allocation works
-Tell Claude what needs doing and when — it updates `tasks/week.md` directly.
-No manual editing. Examples: "do X tomorrow", "put Y on Wednesday", "next week: Z".
-`/daily-plan` pulls today's section from week.md automatically.
-Incomplete tasks carry forward to the next day on the next `/daily-plan` run.
+## Per-Client File Structure
+Each client folder contains:
+- `[name]-strategy.md` — engagement and comment strategy
+- `[name]-outreach.md` — DM and outreach strategy
+- `profile.md` or `[name].md` — client profile
+- `lists/` — prospect lists (CSV, built in Clay)
+- `prospects/` — active prospect tracking
+- `sources/` — onboarding docs and ICP research
 
 ## Skills
-Custom skills live in `.claude/skills/`. Each skill: `.claude/skills/skill-name/SKILL.md`.
+Custom skills live in `.claude/skills/`. Run them by typing the skill name in Claude Code.
 
 **Live:**
-- `/daily-plan` — morning planning workflow (calendar + time blocking)
-- `/audit` — full system health check (stale tasks, context, decisions, projects, CLAUDE.md)
 - `/engagement-log` — daily commenting workflow per client
 - `/outreach` — DM/outreach workflow per client
-- `/list-build` — Clay filter list builder (ICP filtering + 10 campaign CSVs per client)
-
-**Backlog:**
-- `/weekly-review` — end-of-week wrap + next week planning
-- `/weekly-report` — performance reports for all clients
+- `/daily-plan` — morning planning workflow
+- `/audit` — full system health check
+- `/list-build` — Clay filter list builder
 
 ## Rules
 `.claude/rules/communication-style.md` — loaded automatically. Defines tone for internal (casual/direct) and external (professional/bright) communication.
-
-## MCP Integrations
-| Integration | Status | Used For |
-|-------------|--------|---------|
-| Google Calendar | Connected (claude.ai) | `/daily-plan` calendar pull |
-| Google Drive | Connected (claude.ai) | File access if needed |
-| Gmail | Connected (claude.ai) | Not yet permitted — add to settings.local.json to activate |
-| Notion | Pending | Wishlist — blocked until company permissions sorted |
 
 ## Decision Log
 Log meaningful decisions in `decisions/log.md`. Append-only.
 Format: `[YYYY-MM-DD] DECISION: ... | REASONING: ... | CONTEXT: ...`
 
-## Memory
-Persistent across conversations. Say *"Remember that..."* to save something specific.
-
-## References
-SOPs: `references/sops/`
-Style guides + examples: `references/examples/`
-Wishlist / ideas backlog: `wishlist.md`
-
-## Keeping Context Current
-- **Focus shifts:** update `context/current-priorities.md`
-- **Each quarter:** update `context/goals.md`
-- **Meaningful decisions:** log in `decisions/log.md`
-- **New recurring workflow:** build a skill in `.claude/skills/`
-- **Weekly:** run `/audit` to catch stale tasks, context drift, and skill gaps
+## Task Management
+- Templates: `tasks/templates/` (office-day, wfh-day)
+- Log: `tasks/log/` (archived daily plans)
 
 ## Archive Rule
 Don't delete — move to `archives/`.
-
-## Session Wrap
-At the end of every working session — when tasks are complete or Francois signals he's done — proactively run through this checklist without being asked:
-
-- [ ] Meaningful decisions logged in `decisions/log.md`
-- [ ] `tasks/week.md` and `tasks/today.md` reflect actual state (done/not done, moved tasks)
-- [ ] `context/current-priorities.md` updated if focus shifted
-- [ ] Any new or changed skills updated to reflect what was built
-- [ ] New file structures or patterns documented in the relevant README
-- [ ] Nothing left undocumented that a future session would need to know
-
-Do this automatically. Don't wait to be reminded.

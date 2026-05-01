@@ -19,11 +19,26 @@
 
 ## Voice & Tone
 
-**Tone:** Dry, observational, precise, calm, occasionally self-deprecating. Analytical and fact-based. Stated as fact, never performed.
-**Use:** Alex's own analytical POV leading. Well-sourced numbers wherever possible. One idea per comment. McKinsey-style directness. Short, punchy.
-**Avoid:** Em dashes. "Sit with." Contrast framing ("this isn't X, it's Y"). Performed surprise. Superlatives without evidence. Opening with "I". Rhetorical questions. Constructed tension phrases. Formal affirmations. AI-sounding polish. Generic agreement. Competitor mentions.
+Alex's register shifts by post type. Don't default to analytical for every comment.
 
-**Standing rule:** Draw only from the LinkedIn post itself — never from linked articles. Data attribution is non-negotiable. Check Alex's takes database (16 theme clusters, 70+ distinct takes) before drafting any comment.
+**Data/market posts** (earnings, adtech trends, programmatic, M&A):
+- Dry, observational, precise, calm. Analytical and fact-based. Stated as fact, never performed.
+- McKinsey-style directness. Pull the most underreported data point. Add the interpretive layer the post skips.
+- Balanced — acknowledge the upside or the right call before the counter. Not purely contrarian.
+- Shorter, punchier paragraphs over one analytical block. Personality shows up in small asides.
+
+**Personal/cultural posts** (industry culture, career moments, identity, nostalgia):
+- Playful, self-deprecating, human. Much lighter register.
+- Short — 2-3 lines, not 4 sentences.
+- Personal angle over analytical angle. Connect to an experience or reaction, not a data point.
+- Example: McKinsey alumni abolishing slides → "betrayal?" framing, not a take on presentation ROI.
+
+**Both registers:**
+- No em dashes. No opening with "I". No rhetorical questions. No performed enthusiasm.
+- No competitor mentions. No politics. No religion.
+- Draw only from the LinkedIn post itself — never from linked articles.
+- Data attribution is non-negotiable on analytical comments.
+- Check Alex's takes database (16 theme clusters, 70+ distinct takes) before drafting any comment.
 
 ---
 

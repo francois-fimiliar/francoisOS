@@ -42,4 +42,14 @@ Format: [YYYY-MM-DD] DECISION: ... | REASONING: ... | CONTEXT: ...
 
 [2026-04-29] DECISION: Comment replies tracked separately as a quality metric | REASONING: A comment that generates a reply = 2x the intent signal of one that doesn't. Tracking only volume hides quality. Comment type + reply data is how the strategy improves over time. | CONTEXT: Added comment type and reply tracking to all 14 strategy files and engagement template.
 
+[2026-04-29] DECISION: Signal monitoring will come through Fimiliar's own data system, not manual notification checking | REASONING: Manual monitoring of 14 profiles is unscalable. The data system will pre-surface intent signals before each /outreach session. | CONTEXT: /outreach skill will eventually read from surfaced signals rather than prompting manual checking — update the skill when the data system is ready.
+
+[2026-04-29] DECISION: Voice/tone inputs for 7 clients default to working assumptions until inputs received | REASONING: Can't block execution on missing inputs — working assumptions are good enough to start. Quality improves incrementally as inputs come in. | CONTEXT: Rob Rooney, Andy Newberry, Matt Lovitt, Richard Davis, Ilan, Karl, Jono all have working assumptions in their strategy files. Update each file when real input is received.
+
+[2026-04-30] DECISION: Profile views treated as standalone DM triggers for Ilan — casual "saw you checking out my profile" opener | REASONING: Strategy requires 2-3 prior engagement touches but Ilan's pipeline is just launching and needs volume moving. Profile view alone is sufficient signal to start a conversation if the person is in ICP. Casual opener is disarming and human — better reply rates than analytical openers. | CONTEXT: Two templates: Option A (simple curiosity) and Option B (return the favour + industry challenge question). Both documented in ilan-bernstein-outreach.md. Send while view is still recent.
+
+[2026-04-30] DECISION: Session outputs tracked in per-client CSV files (comments + DMs) | REASONING: Comments and DMs drafted in session need client approval before sending. CSV format gives Ilan a clean, reviewable list with post links and draft text — easy to approve, edit, or skip per row. | CONTEXT: Two CSV types per client per session: `[client]-comments-[date].csv` and `[client]-profile-viewers-[date].csv`. Stored in `clients/[slug]/prospects/`.
+
+[2026-04-30] DECISION: Alex's comment voice is context-dependent — analytical for data/market posts, playful/self-deprecating for personal/cultural posts | REASONING: Initial strategy file described a single analytical register. Live session revealed Alex's real comments are more varied — personal/cultural posts get a lighter, more human touch (e.g. McKinsey slide deck post: "betrayal?" framing). Data/market posts stay dry and analytical. | CONTEXT: Update alex-brownstein-strategy.md to reflect the two registers. Don't default to analytical for every post type.
+
 ---
